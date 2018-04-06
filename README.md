@@ -38,7 +38,7 @@ Go to settings in VSCode, and on the right side, paste this code.
     "statusBar.noFolderBackground": "#333333",
     "statusBar.debuggingBackground": "#263238"
   },
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
 
   "css.validate": false,
   "scss.validate": false,
