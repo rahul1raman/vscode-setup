@@ -2,7 +2,7 @@
 
 ### Theme
 
-I use the `Oceanic Next` theme with the dimmed bg option. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
+I use the default `Visual Studio Dark` theme with the material theme icons. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
 ### Extensions used
 
@@ -26,23 +26,24 @@ Go to settings in VSCode, and on the right side, paste this code.
 
 ```
 {
-  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
-  "files.autoSave": "onFocusChange",
-  "editor.minimap.enabled": true,
-  "workbench.statusBar.visible": true,
-  "workbench.activityBar.visible": true,
-  "editor.formatOnSave": false,
-
-  "workbench.colorCustomizations": {
-    "statusBar.background": "#333333",
-    "statusBar.noFolderBackground": "#333333",
-    "statusBar.debuggingBackground": "#263238"
-  },
-  "editor.fontSize": 14,
-
-  "css.validate": false,
-  "scss.validate": false,
-  "less.validate": false,
-  "editor.wordWrap": "on"
-}
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": true,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.formatOnSave": false,
+  
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#333333",
+      "statusBar.noFolderBackground": "#333333",
+      "statusBar.debuggingBackground": "#263238"
+    },
+    "editor.fontSize": 14,
+  
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "editor.wordWrap": "on"
+  }
 ```
