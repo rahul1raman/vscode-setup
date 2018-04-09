@@ -18,7 +18,9 @@ I use the default `Visual Studio Dark` theme with the material theme icons. [Lin
 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-`Project Manager`  [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+`Autoprefixer` for automatically fixing incomaptible css for older browsers. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+
+`Beautify` for inplace beautification of code [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 ### Settings
 
