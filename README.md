@@ -4,7 +4,7 @@
 
 I use the default `Visual Studio Dark` theme with the material theme icons. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-### Extensions used
+### Some helpful extensions
 
 `Auto Close Tag` to automatically close HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -29,7 +29,6 @@ Go to settings in VSCode, and on the right side, paste this code.
 ```
 {
     "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.iconTheme": "eq-material-theme-icons",
     "files.autoSave": "onFocusChange",
     "editor.minimap.enabled": true,
     "workbench.statusBar.visible": true,
@@ -41,11 +40,15 @@ Go to settings in VSCode, and on the right side, paste this code.
       "statusBar.noFolderBackground": "#333333",
       "statusBar.debuggingBackground": "#263238"
     },
+    
     "editor.fontSize": 14,
-  
     "css.validate": false,
     "scss.validate": false,
     "less.validate": false,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Ubuntu Mono",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false
   }
 ```
