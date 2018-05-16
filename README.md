@@ -28,8 +28,7 @@ Go to settings in VSCode, and on the right side, paste this code.
 
 ```
 {
-    "workbench.colorTheme": "Visual Studio Dark",
-    "files.autoSave": "onFocusChange",
+  "files.autoSave": "onFocusChange",
     "editor.minimap.enabled": true,
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
