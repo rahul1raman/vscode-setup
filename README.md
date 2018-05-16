@@ -2,7 +2,7 @@
 
 ### Theme
 
-I use the default `Visual Studio Dark` theme with the material theme icons. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+I use the default `Visual Studio Dark` theme with the material icons. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Some helpful extensions
 
